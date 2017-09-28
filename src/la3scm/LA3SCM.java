@@ -15,6 +15,11 @@ public class LA3SCM {
      * @param args the command line arguments
      */
     
+    public static void featurea(String[] args)
+    {
+        System.out.println("Feature A added!");
+    }
+    
     public static void featureb(String[] args)
     {
         System.out.println("Feature B added!");
